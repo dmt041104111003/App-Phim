@@ -6,24 +6,25 @@ Bạn yêu thích phim ảnh và muốn có một ứng dụng giúp bạn dễ 
 
 ---
 ## Firebase Powered  
-💡 Ứng dụng được phát triển với **Firebase**:
 + **Firebase Authentication** - Đăng nhập an toàn với Google, Facebook  
 + **Firebase Firestore** - Lưu trữ dữ liệu phim nhanh chóng, dễ truy vấn  
-+ **Firebase Storage** - Quản lý ảnh & trailer phim hiệu quả  
 + **Firebase Cloud Messaging** - Nhận thông báo khi có phim mới  
+---
+## Pinata
++ **Firebase Storage** - Quản lý ảnh & trailer phim hiệu quả
 ---
 
 ## Các Tính Năng Nổi Bật  
-🔹 **Tìm kiếm phim dễ dàng** - Gõ tên phim hoặc diễn viên bạn yêu thích.  
-🔹 **Danh sách đề xuất thông minh** - Gợi ý phim theo sở thích của bạn.  
-🔹 **Chi tiết phim chuyên sâu** - Xem trailer, đánh giá IMDb, tóm tắt nội dung.  
-🔹 **Lịch sử xem phim** - Dễ dàng tiếp tục xem những bộ phim bạn bỏ dở.  
-🔹 **Chia sẻ dễ dàng** - Gửi phim yêu thích cho bạn bè ngay lập tức.  
++ **Tìm kiếm phim dễ dàng** - Gõ tên phim hoặc diễn viên bạn yêu thích.  
++ **Danh sách đề xuất thông minh** - Gợi ý phim theo sở thích của bạn.  
++ **Chi tiết phim chuyên sâu** - Xem trailer, đánh giá IMDb, tóm tắt nội dung.  
++ **Lịch sử xem phim** - Dễ dàng tiếp tục xem những bộ phim bạn bỏ dở.  
++ **Chia sẻ dễ dàng** - Gửi phim yêu thích cho bạn bè ngay lập tức.  
 
 ---
 
 ## Hãy Trải Nghiệm Ngay!  
-👉 **Tải xuống ngay hôm nay** và tận hưởng thế giới phim ảnh đỉnh cao!  
+**Tải xuống ngay hôm nay** và tận hưởng thế giới phim ảnh đỉnh cao!  
 👉 **[TẢI ỨNG DỤNG TẠI ĐÂY](#)**  
 
 🔗 **Theo dõi chúng tôi** để không bỏ lỡ những cập nhật mới nhất!  
