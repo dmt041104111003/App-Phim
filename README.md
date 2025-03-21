@@ -11,7 +11,7 @@ Bạn yêu thích phim ảnh và muốn có một ứng dụng giúp bạn dễ 
 + **Firebase Cloud Messaging** - Nhận thông báo khi có phim mới  
 ---
 ## Pinata
-+ **Firebase Storage** - Quản lý ảnh & trailer phim hiệu quả
++ **Storage** - Quản lý data img phi tập trung trên **ipfs**
 ---
 
 ## Các Tính Năng Nổi Bật  
