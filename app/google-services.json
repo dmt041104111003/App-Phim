@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338193931477",
+    "project_id": "app-phim-2025",
+    "storage_bucket": "app-phim-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338193931477:android:51294adc40d0350ed4965c",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYuUIS_OLVFeglNO9jOGHpqu29-5GQp3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

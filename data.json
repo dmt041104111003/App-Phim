@@ -1,0 +1,474 @@
+{
+    "Banners": [
+        {
+            "image": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeigrd7wxlygp67twc4ynre4qoihab5dhthsdqvgesqxvtxmm334i7m",
+		"name":"1917",
+		"genre":"War Action Adventure",
+		"year":"2023",
+		"age":"+13",
+		"time":"2 Hour"
+		
+
+        },
+        {
+            "image": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreic6ntdpdwabs3ueak2seeojs7ocxg26f33fxrofuwvgqpfem5j2um",
+		"name":"Avengers",
+		"genre":"Adventure",
+		"year":"2023",
+		"age":"15+",
+		"time":"2 Hour"
+
+        },
+        {
+            "image": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreihhhett2jig6igu3abop2ksfmd6j4gf4vbaw2brje76ibfr6fewkm",
+		"name":"Openheimer",
+		"genre":"History Thriller Drama",
+		"year":"2023",
+		"age":"17+",
+		"time":"3 Hour"
+
+        }
+    ],
+    "Items": [
+        {
+            "Casts": [
+                {
+                    "Actor": "Sofia Boutella",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeigmzkt4bovejkeec5eizntbn6nf6vjjuxdr5frx4oai2x4leektte/Sofia-Boutella.png"
+                },
+                {
+                    "Actor": "Ed Skrein",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeigmzkt4bovejkeec5eizntbn6nf6vjjuxdr5frx4oai2x4leektte/Ed-Skrein.png"
+                },
+                {
+                    "Actor": "Michiel Huisman",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeigmzkt4bovejkeec5eizntbn6nf6vjjuxdr5frx4oai2x4leektte/Michiel-Huisman.png"
+                },
+                {
+                    "Actor": "Djimon Hounsou",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeigmzkt4bovejkeec5eizntbn6nf6vjjuxdr5frx4oai2x4leektte/Djimon-Hounsou.png"
+                }
+            ],
+            "Description": "Mot co gai tre voi qua khu bi an duoc giao nhiem vu doan ket cac bo toc khac nhau de chien dau chong lai mot lanh chua tan bao, ke dang de doa thuoc dia yen binh cua ho.",
+            "Genre": [
+                "Adventure",
+                "Action",
+                "Sci-Fi"
+            ],
+            "Imdb": 9,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreigr3pia7tvlg3cbe5fba6gxuwx5mulaefdf3vn6skjjwkxzedxqme",
+            "Time": "2h 22m",
+            "Title": "Rebel Moon",
+            "Trailer": "https://www.youtube.com/watch?v=UEJuNHOd8Dw",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Drama",
+                "Fantasy"
+            ],
+            "Imdb": 8.3,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreif3qodlu4fgs33cx43efzrbqfrwbd4etobx4bbt3pwokt4tytqwse",
+            "Time": "1h 36m",
+            "Title": "Immaculate",
+            "Trailer": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Imdb": 8.5,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "1h 56m",
+            "Title": "Godzilla-Kong",
+            "Trailer": "https://www.youtube.com/watch?v=qqrpMRDuPfc",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Thriller",
+                "Drama"
+            ],
+            "Imdb": 7.5,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "1h 38m",
+            "Title": "No Way Up",
+            "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Thriller",
+                "Drama"
+            ],
+            "Imdb": 7.5,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "1h 42m",
+            "Title": "Kung Fu Panda 4",
+            "Trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+            "Year": 2024
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Action",
+                "Adventure"
+            ],
+            "Imdb": 8.2,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "2h 7m",
+            "Title": "The Three Musketeers",
+            "Trailer": "https://www.youtube.com/watch?v=FsuJMqePZtg",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Action",
+                "Thriller"
+            ],
+            "Imdb": 8.6,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "1h 54m",
+            "Title": "Damaged",
+            "Trailer": "https://www.youtube.com/watch?v=Sg8NuJL5P_8",
+            "Year": 2023
+        }
+    ],
+    "Upcomming": [
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Action",
+                "Adventure"
+            ],
+            "Imdb": 8.2,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "2h 7m",
+            "Title": "The Three Musketeers",
+            "Trailer": "https://www.youtube.com/watch?v=FsuJMqePZtg",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Action",
+                "Thriller"
+            ],
+            "Imdb": 8.6,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreiehni5lk6z7t4urnmkrjbl5p25wut34snxu53ueuvlz65iq6vqtqu",
+            "Time": "1h 54m",
+            "Title": "Damaged",
+            "Trailer": "https://www.youtube.com/watch?v=Sg8NuJL5P_8",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Adventure",
+                "Action",
+                "Sci-Fi"
+            ],
+            "Imdb": 9,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreidf4gnm3dtgrdrgxjcebkdb4555qpp3a2yrxptix33jb3onzj6ms4",
+            "Time": "2h 22m",
+            "Title": "Rebel Moon",
+            "Trailer": "https://www.youtube.com/watch?v=UEJuNHOd8Dw",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Drama",
+                "Fantasy"
+            ],
+            "Imdb": 8.3,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreidf4gnm3dtgrdrgxjcebkdb4555qpp3a2yrxptix33jb3onzj6ms4",
+            "Time": "1h 36m",
+            "Title": "Immaculate",
+            "Trailer": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Imdb": 8.5,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreidf4gnm3dtgrdrgxjcebkdb4555qpp3a2yrxptix33jb3onzj6ms4",            
+            "Time": "1h 56m",
+            "Title": "Godzilla-Kong",
+            "Trailer": "https://www.youtube.com/watch?v=qqrpMRDuPfc",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Thriller",
+                "Drama"
+            ],
+            "Imdb": 7.5,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreidf4gnm3dtgrdrgxjcebkdb4555qpp3a2yrxptix33jb3onzj6ms4",
+            "Time": "1h 38m",
+            "Title": "No Way Up",
+            "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
+            "Year": 2023
+        },
+        {
+            "Casts": [
+                {
+                    "Actor": "Sydney Sweeney",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Sydney-Sweeney.png"
+                },
+                {
+                    "Actor": " lvaro Morte",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Alvaro-Morte.png"
+                },
+                {
+                    "Actor": "Simona Tabasco",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Simona-Tabasco.png"
+                },
+                {
+                    "Actor": "Benedetta Porcaroli",
+                    "PicUrl": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafybeig6jiokkphlcxsgryvsc2tfxonumiotdkckglfmilo2judtoyzpza/Benedetta-Porcaroli.png"
+                }
+            ],
+            "Description": "Mot co gai tre so huu kha nang chua lanh nguoi khac phai chien dau de bao ve mon qua cua minh khoi nhung ke muon loi dung no.",
+            "Genre": [
+                "Thriller",
+                "Drama"
+            ],
+            "Imdb": 7.5,
+            "Poster": "https://blue-capitalist-pony-756.mypinata.cloud/ipfs/bafkreif4vnysoarqopkbcsh2ie4jueqrefkvh627gfc2k2cggvrknebmxa",
+            "Time": "1h 42m",
+            "Title": "Kung Fu Panda 4",
+            "Trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+            "Year": 2024
+        }
+    ]
+}
