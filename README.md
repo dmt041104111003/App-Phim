@@ -5,6 +5,13 @@ Bạn yêu thích phim ảnh và muốn có một ứng dụng giúp bạn dễ 
 **Ứng dụng xem phim** của chúng tôi chính là lựa chọn hoàn hảo dành cho bạn! Với giao diện đẹp mắt, tốc độ tải nhanh và kho nội dung phong phú, ứng dụng này sẽ mang đến **trải nghiệm giải trí đỉnh cao** ngay trên điện thoại của bạn.  
 
 ---
+## Firebase Powered  
+💡 Ứng dụng được phát triển với **Firebase**:
++ **Firebase Authentication** - Đăng nhập an toàn với Google, Facebook  
++ **Firebase Firestore** - Lưu trữ dữ liệu phim nhanh chóng, dễ truy vấn  
++ **Firebase Storage** - Quản lý ảnh & trailer phim hiệu quả  
++ **Firebase Cloud Messaging** - Nhận thông báo khi có phim mới  
+---
 
 ## Các Tính Năng Nổi Bật  
 🔹 **Tìm kiếm phim dễ dàng** - Gõ tên phim hoặc diễn viên bạn yêu thích.  
