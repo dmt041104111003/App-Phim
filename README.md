@@ -25,7 +25,7 @@ Bạn yêu thích phim ảnh và muốn có một ứng dụng giúp bạn dễ 
 
 ## Hãy Trải Nghiệm Ngay!  
 **Tải xuống ngay hôm nay** và tận hưởng thế giới phim ảnh đỉnh cao!  
-👉 **[TẢI ỨNG DỤNG TẠI ĐÂY](#)**  
+👉 **[TẢI ỨNG DỤNG TẠI ĐÂY](https://github.com/dmt041104111003/App-Phim/archive/refs/heads/main.zip)**
 
 🔗 **Theo dõi chúng tôi** để không bỏ lỡ những cập nhật mới nhất!  
 🔗 **Website:** [Đang cập nhật!](#)  
